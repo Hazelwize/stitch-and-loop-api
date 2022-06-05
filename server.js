@@ -207,4 +207,5 @@ app.get('/api/type/:crochetType', (req,res)=>{
     })
     console.log(typeResults)
     res.json(typeResults)
+   
 })   
