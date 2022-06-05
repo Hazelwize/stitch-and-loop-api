@@ -1,0 +1,15 @@
+{
+  "name": "stitch-and-loop-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hazelwize",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
