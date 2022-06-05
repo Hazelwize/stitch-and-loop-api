@@ -6,9 +6,6 @@ const PORT = 8000
 app.use(cors)
 app.use(express.json())
 
-app.listen(process.env.PORT || PORT, () =>{
-    console.log(`Your server is running on port ${PORT}`)
-})
 
 const stitches = [
     {
@@ -211,3 +208,9 @@ app.get('/api/type/:crochetType', (req,res)=>{
     res.json(typeResults)
    
 })   
+
+
+
+app.listen(process.env.PORT || PORT, () =>{
+    console.log(`Your server is running on port ${PORT}`)
+})
