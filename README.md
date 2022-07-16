@@ -1,4 +1,4 @@
-# My Awesome Project
+# Stitch-N-Loop API
 This is an API created to describe different crochet stitches and styles.
 
 **Link to project:** https://stitch-and-loop-api.herokuapp.com/
