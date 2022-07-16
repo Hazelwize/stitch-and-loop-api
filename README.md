@@ -3,6 +3,8 @@ This is an API created to describe different crochet stitches and styles.
 
 **Link to project:** https://stitch-and-loop-api.herokuapp.com/
 
+![stitch-and-loop](https://user-images.githubusercontent.com/97214996/179375080-e94b6b07-99c8-4f86-9071-e89880af5288.jpeg)
+
 
 ## How It's Made:
 
